@@ -12,7 +12,6 @@
   <br>
   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
   <br>
-  <br>
   <h3> // About me  </h3>
   <ul>
   <li>👷 Mining Engineer with a <strong>Bachelor's in Engineering Sciences</strong></li>
