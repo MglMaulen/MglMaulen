@@ -10,6 +10,7 @@
   [![patreon](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/orhunp)
   <br>
   <br>
+  <br>
   <h3> // About me  </h3>
   <ul>
   <li>👷 Mining Engineer with a <strong>Bachelor's in Engineering Sciences</strong></li>
