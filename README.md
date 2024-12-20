@@ -17,8 +17,8 @@
   <li>👷 Mining Engineer with a <strong>Bachelor's in Engineering Sciences</strong></li>
   <li>🌎 Currently working in the <strong>Mining Industry</strong>, specializing in engineering solutions</li>
   <li>📊 Focused on <strong>Machine Learning</strong> and <strong>Data Science</strong> applications in mining</li>
-  <li>🤝 Committed to fostering <strong>innovation<strong> and <strong>sustainability<strong> in the industry</li>
-  <li>🌱 Dedicated to creating efficient and sustainable solutions in the mining sector</li>
+  <li>🤝 Committed to fostering <strong>Innovation</strong> and <strong>Sustainability</strong> in the industry</li>
+  <li>🌱 Dedicated to creating <strong>Efficient</strong> and <strong>Sustainable</strong> solutions in the mining sector</li>
   </ul>
 
   <h3> Programming & Markup Languages </h3>
