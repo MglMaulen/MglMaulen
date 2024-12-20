@@ -4,10 +4,14 @@
   <img align="right" width="400" alt="dragon" src="https://media.giphy.com/media/zrPxQdq5mNi9JwLXKZ/giphy.gif"/>
   <img align="left" src="https://orhun.dev/img/crow.png">
 
-  [![pgp](https://img.shields.io/badge/pgp-0xB928720AEC532117-313131?style=flat-square&labelColor=313131&color=313131)](https://orhun.dev/orhun.gpg)   
-  [![twitter](https://img.shields.io/badge/-@orhunp__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/orhunp_)  
-  [![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/orhunp/)  
-  [![patreon](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/orhunp)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  <br>
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
+  <br>
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <br>
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  <br>
   <br>
   <br>
   <br>
